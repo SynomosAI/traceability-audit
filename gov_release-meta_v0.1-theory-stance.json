@@ -1,0 +1,43 @@
+{
+  "package_name": "AI 治理四支柱理论站位 首发包",
+  "package_version": "v0.1-theory-stance",
+  "version_short": "0.1-theory-stance",
+  "status": "🅿️ 发布前占位",
+  "attribution": {
+    "brand_legal": "SynomosAI",
+    "brand_author": "Logos 诺声@SynomosAI",
+    "display_string": "Logos 诺声@SynomosAI"
+  },
+  "primary_fingerprint": "FP-MX-836A60CCF23F",
+  "source_fingerprints": {
+    "panorama_line": "FP-MX-836A60CCF23F",
+    "philosophy_line": "FP-MX-B4AF38791924",
+    "repo_composite": "eea5260fca567e0c334a9487fb12b265f846067e19b37cfb789f31688f44d94c"
+  },
+  "related_skills": [
+    "a3-law-operational",
+    "ai-governance",
+    "ai-governance-audit-chain",
+    "skill-ecosystem-publish",
+    "content-publish-lifecycle"
+  ],
+  "version_lines": {
+    "this_package": "v0.1-theory-stance",
+    "upstream_repo_traceability_audit": "v1.0",
+    "placeholder_ledger": "1.0.0"
+  },
+  "theory_pointer_repo": "SynomosAI/traceability-audit@main",
+  "generated_by": "SynomosAI Content Studio (Phase 3)",
+  "release_directory": "release-package/v0.1-theory-stance/",
+  "artifacts": [
+    "gov_four-pillars_zh-en_v0.1-theory-stance.md",
+    "gov_theory-pointer-index_multi_v0.1-theory-stance.md",
+    "gov_attribution-spec_v0.1-theory-stance.md",
+    "gov_release-meta_v0.1-theory-stance.json",
+    "gov_panorama_zh_v0.1-theory-stance.html",
+    "gov_panorama_placeholder_v0.1-theory-stance.html",
+    "gov_panorama_placeholder_v0.1-theory-stance.md",
+    "logo.svg",
+    "LICENSE"
+  ]
+}

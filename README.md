@@ -1,28 +1,33 @@
-# traceability-audit
+# AI 治理四支柱 · 理论站位（v0.1-theory-stance）
 
-SynomosAI 四支柱体系：**身份（Identity）· 溯源（Traceability）· 治理（Governance）· 共生（Symbiosis）**——当 AI 进入商业，可信是唯一的硬通货。
+> SynomosAI 治理线首发理论包。本仓库为 **中文主包 + 九语种 THEORY 索引** 的公开托管点。
 
-> 本仓库属于 [SynomosAI](https://github.com/SynomosAI) 生态技能包的一员。生态全景见 [`synomosai-skills`](https://github.com/SynomosAI/synomosai-skills)，理论站位见 [`traceability-audit`](https://github.com/SynomosAI/traceability-audit)。
+- **包名**：AI 治理四支柱理论站位 首发包
+- **版本**：v0.1-theory-stance
+- **署名**：Logos 诺声@SynomosAI
+- **主指纹**：FP-MX-836A60CCF23F
+- **版权**：© 2026 SynomosAI · MIT
 
-## 仓库内容
+## 内容
 
-SynomosAI 四支柱理论站位（THEORY 多语种主包）
+| 文件 | 说明 |
+|------|------|
+| `THEORY.md`（theory/ 目录） | 四支柱理论正文（中文） |
+| `theory/THEORY.{ar,de,en,es,fr,ja,pt,ru}.md` | 八语种译文 |
+| `gov_four-pillars_zh-en_v0.1-theory-stance.md` | 四支柱中英对照 |
+| `gov_theory-pointer-index_multi_v0.1-theory-stance.md` | 九语种指针索引 |
+| `gov_attribution-spec_v0.1-theory-stance.md` | 署名与版权规范 |
+| `gov_panorama_zh_v0.1-theory-stance.html` | 全景图（中文） |
+| `gov_panorama_placeholder_v0.1-theory-stance.{md,html}` | 全景图占位说明 |
+| `gov_release-meta_v0.1-theory-stance.json` | 发布元数据 |
+| `logo.svg` / `LICENSE` | 标识与许可 |
 
-## 元信息
+## 溯源
 
-- **技能名**：`traceability-audit`
-- **版本**：1.0.0
-- **署名**：SynomosAI
-- **许可**：MIT（详见仓库 LICENSE）
+理论正文镜像自上游 `Medxpert-org/traceability-audit@v1.0`；本 SynomosAI 治理线归 SynomosAI 所有，不代表品牌混同。
 
-## 使用方式
+## 诚实边界
 
-1. 克隆本仓库或将该技能目录放入你的 Agent 技能目录（如 `~/.workbuddy/skills/`）；
-2. 在 Agent 中按 `SKILL.md` 的描述触发对应能力；
-3. 需要审计/合规证据的场景，参考 `SKILL.md` 内模板产出工件。
+方法框架已成形，但 **API 端口、授权码体系、商业化交付均为演进方向（非当前）**；本框架 **不是医疗器械、不是医疗软件，不作任何临床或功效声明**，标准引用仅作背景参考。
 
----
-
-## 免责声明
-
-本仓库内容为 SynomosAI 的**理论站位与工具化探索**，不代表任何已获认证、已商业化交付或已服务特定客户的声明；文中涉及的 ISO/IEC 42001、NIST AI RMF、GB/Z 185 等外部标准与条款信息为公开资料转述，正式引用前请**独立核实**。API、授权码与形象大使等为路线图（roadmap）事项，尚未上线。
+详见 [`gov_theory-pointer-index_multi_v0.1-theory-stance.md`](gov_theory-pointer-index_multi_v0.1-theory-stance.md)。
