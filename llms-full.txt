@@ -1,0 +1,44 @@
+# traceability-audit — 完整文本 / Full text
+
+本文件为 llms.txt 标准的「完整版」，供长上下文模型一次性读取本仓库的完整说明。
+
+## 这是什么
+
+`traceability-audit` 是 SynomosAI 治理线的首发理论包：中文主 THEORY 正文 + 八语种译文（ar/de/en/es/fr/ja/pt/ru）+ 中英对照 + 九语种指针索引 + 署名规范 + 全景图。版本 v0.1-theory-stance，主指纹 FP-MX-836A60CCF23F。
+
+一句话：四支柱世界观（身份/溯源/治理/共生）的多语种理论正文托管点。
+
+## 仓内结构
+
+- `theory/THEORY.md`：中文理论正文；`theory/THEORY.{ar,de,en,es,fr,ja,pt,ru}.md`：八语种译文。
+- `gov_four-pillars_zh-en_v0.1-theory-stance.md`：四支柱中英对照。
+- `gov_theory-pointer-index_multi_v0.1-theory-stance.md`：九语种指针索引。
+- `gov_attribution-spec_v0.1-theory-stance.md`：署名与版权规范。
+- `gov_panorama_zh_v0.1-theory-stance.html`：中文全景图。
+- `gov_release-meta_v0.1-theory-stance.json`：发布元数据（版本指纹）。
+
+## 快速开始
+
+```bash
+git clone --depth 1 https://github.com/SynomosAI/traceability-audit.git
+cd traceability-audit
+cat theory/THEORY.md
+cat theory/THEORY.en.md
+```
+
+## 触发词
+
+四支柱 / 理论站位 / AI 治理 / traceability / theory stance / multilingual / THEORY 多语种 / 身份 溯源 治理 共生。
+
+## 许可与权利
+
+MIT 许可。Copyright (c) 2026 SynomosAI。原 README 头部版权行（© 2026 SynomosAI · MIT）逐字保留。
+
+## 边界
+
+本仓只陈述理论立场，不执行检查；理论正文镜像自上游 Medxpert-org/traceability-audit@v1.0。API 端口、授权码、商业化交付为路线图事项，非当前状态。不是医疗器械/医疗软件，不作临床或功效声明。
+
+## 链接
+
+- 仓库: https://github.com/SynomosAI/traceability-audit
+- 英文理论站位: https://github.com/SynomosAI/synomosal-theory-stance-en

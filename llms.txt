@@ -1,0 +1,21 @@
+# traceability-audit
+
+> Multilingual theory text for SynomosAI's AI Governance Four Pillars (Identity · Traceability · Governance · Symbiosis): Chinese main THEORY + 8 translations (ar/de/en/es/fr/ja/pt/ru), bilingual zh-en alignment, nine-language pointer index, attribution spec.
+
+A content-only repo hosting the theory package. It states the four-pillar worldview; it runs no checks.
+
+## Core
+
+- [theory/THEORY.md](https://github.com/SynomosAI/traceability-audit/blob/main/theory/THEORY.md): four-pillar theory text (Chinese main)
+- [theory/THEORY.en.md](https://github.com/SynomosAI/traceability-audit/blob/main/theory/THEORY.en.md): English translation
+- [gov_theory-pointer-index_multi_v0.1-theory-stance.md](https://github.com/SynomosAI/traceability-audit/blob/main/gov_theory-pointer-index_multi_v0.1-theory-stance.md): nine-language pointer index
+- [gov_attribution-spec_v0.1-theory-stance.md](https://github.com/SynomosAI/traceability-audit/blob/main/gov_attribution-spec_v0.1-theory-stance.md): attribution spec
+- [LICENSE](https://github.com/SynomosAI/traceability-audit/blob/main/LICENSE): MIT
+
+## Optional
+
+- [README.md](https://github.com/SynomosAI/traceability-audit/blob/main/README.md) / [README.en.md](https://github.com/SynomosAI/traceability-audit/blob/main/README.en.md): bilingual overview
+- [AGENTS.md](https://github.com/SynomosAI/traceability-audit/blob/main/AGENTS.md): guidance for AI agents
+- [llms-full.txt](https://github.com/SynomosAI/traceability-audit/blob/main/llms-full.txt): full text
+- [SECURITY.md](https://github.com/SynomosAI/traceability-audit/blob/main/SECURITY.md): security policy
+- [CODEOWNERS](https://github.com/SynomosAI/traceability-audit/blob/main/CODEOWNERS): content owners
